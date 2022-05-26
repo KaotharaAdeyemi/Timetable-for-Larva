@@ -1,0 +1,48 @@
+.list{
+    background-color: blue;
+}
+.go{
+    border: 1px solid blue;
+    color: red;
+}
+
+
+.mon{
+    background-color: lightsalmon;
+
+}
+.tue{
+    background-color: peachpuff;
+}
+table ,th, td{
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+
+th{
+    padding: 10px;
+text-align: center;
+background-color:peachpuff;
+
+}
+td{
+    padding: 10px;
+    width: 200px;
+    border-right: 1px solid black;
+}
+.wed{
+    background-color: lightsalmon;
+}
+
+.thur{
+   background-color: peachpuff;
+}
+.fri{
+    background: lightsalmon;
+}
+
+
+
+
